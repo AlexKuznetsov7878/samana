@@ -1,3 +1,3 @@
 print("Alex")
-print("Kuznetsov")
+print("Smith")
 print("Goodbye")
